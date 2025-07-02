@@ -6056,8 +6056,8 @@
     font-style: normal;
     font-weight: 400;
     font-display: block;
-    src: url('/Users/hitesharundingankar/karmh_group/assets/webfonts/fa-brands-400.woff2');
-    src: url(../webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"), url('/Users/hitesharundingankar/karmh_group/assets/webfonts/fa-brands-400.woff2') format("woff2"), url('/Users/hitesharundingankar/karmh_group/assets/webfonts/fa-brands-400.woff2') format("woff"), url('/Users/hitesharundingankar/karmh_group/assets/webfonts/fa-brands-400.woff2') format("truetype"), url('/Users/hitesharundingankar/karmh_group/assets/webfonts/fa-brands-400.woff2') format("svg")
+    src: url('https://github.com/nikshitpatel31/Karmh__Group/raw/refs/heads/main/assets/webfonts/fa-brands-400.woff2');
+    src: url(../webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"), url('https://github.com/nikshitpatel31/Karmh__Group/raw/refs/heads/main/assets/webfonts/fa-brands-400.woff2') format("woff2"), url('https://github.com/nikshitpatel31/Karmh__Group/raw/refs/heads/main/assets/webfonts/fa-brands-400.woff2') format("woff"), url('https://github.com/nikshitpatel31/Karmh__Group/raw/refs/heads/main/assets/webfonts/fa-brands-400.woff2') format("truetype"), url('https://github.com/nikshitpatel31/Karmh__Group/raw/refs/heads/main/assets/webfonts/fa-brands-400.woff2') format("svg")
 }
 
 .fab {
