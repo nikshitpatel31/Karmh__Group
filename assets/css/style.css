@@ -53,6 +53,20 @@ Tags:       architect, architecture, architecture design, architecture portfolio
 <-- Arcke top-menu-area Css -->
 ==================================*/
 
+@font-face {
+    font-family: 'Flaticon';
+    src: url('https://cdn.jsdelivr.net/gh/nikshitpatel31/Karmh_Group/Flaticon.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ionicons';
+    src: url('https://cdn.jsdelivr.net/gh/nikshitpatel31/Karmh_Group/ionicons.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 .top-menu-area {
     background: #D8AB7A;
     padding: 10px 0;
